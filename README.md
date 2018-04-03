@@ -29,6 +29,6 @@ two  D. melanogaster species and the figures used in the plots in Chapter 6
 and the Appendix document (Appendix.pdf).
 
 The Lahens folder contains the tabular data (Phase II) for the three IVT-Seq H. sapiens
-samples and plots in Chapter 6.
+samples and figures for plots in Chapter 6.
 
 
